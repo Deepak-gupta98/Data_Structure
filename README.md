@@ -4,7 +4,7 @@ Data_Structure!
  
  ------
     
-- This repositary will help you to understand the data structures.
+- This repository will help you to understand the data structures.
 - In further editions I will provide some more data structures.
 
 - Welcome for better suggestions
@@ -13,5 +13,5 @@ Data_Structure!
 
   ------
   <p align="center">
-  Ravindra Saini
+ DEEPAK KUMAR
   </p>
